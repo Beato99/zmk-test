@@ -1,0 +1,2 @@
+config SHIELD_BEEBOARD
+    def bool $(shields_list_contains, BeeBoard)
